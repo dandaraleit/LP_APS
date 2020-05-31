@@ -7,11 +7,11 @@ public class Q4 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		//6
-				//Escrever um programa, utilizando a Linguagem Java, que receba aleatoriamente do
-				//usuário 10 números inteiros e armazene estes em um vetor. Em seguida, o usuário
-				//digita um número e seu programa deve acusar se o número digitado está no vetor
-				//ou não. Se estiver, diga a posição que está. (2,0 pontos)
+		//04)
+		//Escrever um programa, utilizando a Linguagem Java, que receba aleatoriamente do
+		//usuário 10 números inteiros e armazene estes em um vetor. Em seguida, o usuário
+		//digita um número e seu programa deve acusar se o número digitado está no vetor
+		//ou não. Se estiver, diga a posição que está. (2,0 pontos)
 				
 				Scanner leitor = new Scanner(System.in);
 				

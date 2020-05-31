@@ -104,9 +104,8 @@ public class LP_APS {
 		//digita um número e seu programa deve acusar se o número digitado está no vetor
 		//ou não. Se estiver, diga a posição que está. (2,0 pontos)
 		
-				
+		int qntd = 10, numeroPesquisado, indiceEncontrado=0;		
 		int[] numeros = new int[qntd];
-		int qntd = 10, numeroPesquisado, indiceEncontrado=0;
 		boolean existe = false;
 		
 		for (int i=0; i < qntd; i++) {
