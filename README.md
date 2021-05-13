@@ -1,2 +1,2 @@
-# LP_APS
-APS LP
+# Questoes_praticas
+Estudo prático sobre vetores em lógica de programação.
